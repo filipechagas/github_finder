@@ -1,0 +1,4 @@
+GithubCreds = {
+    client_id: 'xxxxxxxxxxxxxxxxxxxx',
+    client_secret: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+}
